@@ -8,8 +8,7 @@ Product Of Sum: i.) POS stands for Product of Sums. ii.) It is a technique of de
 ### K map:
 A Karnaugh map (K-map) is a visual method used to simplify the algebraic expressions in Boolean functions without having to resort to complex theorems or equation manipulations. A K-map can be thought of as a special version of a truth table that makes it easier to map out parameter values and arrive at a simplified Boolean expression.
 
-### LOGIC DIAGRAM
-![M](https://user-images.githubusercontent.com/117919362/239695084-f5c3e161-e811-4e4a-9ed8-7bbdb624d2d2.png)
+
 ### PROGRAM
 ```
 Name:Silambarasan K
@@ -28,6 +27,8 @@ and (e,x,y,c);
 or (f,d,e);
 endmodule
 ```
+### LOGIC DIAGRAM
+![M](https://user-images.githubusercontent.com/117919362/239695084-f5c3e161-e811-4e4a-9ed8-7bbdb624d2d2.png)
 #### NETLIST DIAGRAM
 ![m](https://user-images.githubusercontent.com/117919362/239695213-46f58906-fddf-431b-b558-e9ef2a7d643d.png)
 ### TIMING DIAGRAM
